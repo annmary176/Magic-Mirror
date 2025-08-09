@@ -78,7 +78,7 @@ Diagrams
 
 Project Demo
 Video
-[(https://github.com/annmary176/Magic-_-Mirror/mirrorvideo.mp4)] working of our project
+[(./mirrorvideo.mp4)] working of our project
 
 
 
