@@ -39,14 +39,12 @@ For Software:
 1. Prerequisites
 
 Node.js (v18 or higher recommended)
-
 npm (comes with Node)
-
 A webcam (or external camera)
-
 Internet connection (unless you have downloaded offline face recognition models)
 
 Installation
+
 # Clone the repository
 git clone https://github.com/annmary176/magic-mirror.git
 cd magic-mirror
@@ -57,9 +55,7 @@ npm install
 # If you get 'ERR_MODULE_NOT_FOUND' for node-fetch:
 npm install node-fetch
 
-
 Run
-
 # Start the development server
 npm start
 
@@ -69,38 +65,24 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+![Screenshot1](./image1) chat
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+![Screenshot2](./image2) replying to message
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+![Screenshot3](./image3)recognising face
 
 Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+![Workflow](./magic_mirror_workflow) Add caption explaining your workflow
 
-For Hardware:
 
-Schematic & Circuit
-![Circuit](Add your circuit diagram here) Add caption explaining connections
-
-![Schematic](Add your schematic diagram here) Add caption explaining the schematic
-
-Build Photos
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+[(https://github.com/annmary176/Magic-_-Mirror/mirrorvideo.mp4)] working of our project
 
-Additional Demos
-[Add any extra demo materials/links]
+
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
-agic-Mirror
+[Ann Mary Chacko]: front end creation
+[Bisni K B]: Back end creation
+
