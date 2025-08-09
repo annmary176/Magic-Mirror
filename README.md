@@ -72,7 +72,7 @@ Screenshots (Add at least 3)
 ![Screenshot3](./image3.png)recognising face
 
 Diagrams
-![Workflow](./magic_mirror_workflow) Add caption explaining your workflow
+![Workflow](./MagicMirror/magic_mirror_workflow) Add caption explaining your workflow
 
 
 
