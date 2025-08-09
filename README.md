@@ -65,11 +65,11 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](./image1) chat
+![Screenshot1](./image1.png) chat
 
-![Screenshot2](./image2) replying to message
+![Screenshot2](./image2.png) replying to message
 
-![Screenshot3](./image3)recognising face
+![Screenshot3](./image3.png)recognising face
 
 Diagrams
 ![Workflow](./magic_mirror_workflow) Add caption explaining your workflow
