@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Project Name- MAGIC MIRROR 🎯\r Basic Details\r Team Name: COMMENTS\r Team Members",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "body-parser": "^2.2.0",
@@ -18,5 +18,13 @@
     "express": "^5.1.0",
     "node-fetch": "^3.3.2",
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annmary176/Magic-_-Mirror.git"
+  },
+  "bugs": {
+    "url": "https://github.com/annmary176/Magic-_-Mirror/issues"
+  },
+  "homepage": "https://github.com/annmary176/Magic-_-Mirror#readme"
 }

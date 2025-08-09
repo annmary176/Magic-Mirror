@@ -8,7 +8,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 app.use(express.json())
-app.use(express.static('Magic-Mirror'));
+app.use(express.static('MagicMirror'));
 const genAI = new GoogleGenerativeAI("AIzaSyBH9rCXTslVYz6iOic9hGHYMkjSjW79u28");
 
 app.get('/health', (req, res) => {
@@ -16,7 +16,8 @@ app.get('/health', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-  res.sendFile(__dirname + '/Magic-Mirror/mirror.html');
+  console.log(__dirname);
+  res.sendFile(__dirname + '/MagicMirror/index.html');
 });
 
 // Updated server.js with correct Gemini model name
@@ -37,5 +38,5 @@ app.post('/ask-gemini', async (req, res) => {
   }
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => console.log(`Proxy server running on port ${PORT}`));
