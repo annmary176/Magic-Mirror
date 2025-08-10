@@ -2,7 +2,7 @@
 
 
 ## Basic Details
-###Team Name: COMMENTS
+### Team Name: COMMENTS
 
 
 ### Team Members
@@ -18,7 +18,7 @@ A sassy, antique-themed smart mirror website that identifies you via face recogn
 
 People are tired of boring mirrors that silently judge them without saying a word. Where’s the drama? Where’s the sass? Where’s the passive-aggressive energy we need to start the day?
 
-The Solution (that nobody asked for)
+### The Solution (that nobody asked for)
 
 We built a digital mirror that talks back — literally. Using AI, it flatters its owner like they’re royalty while giving strangers a roast so spicy, they might just cry. It’s like having a stand-up comedian trapped inside a mirror… forever.
 
@@ -37,7 +37,7 @@ For Hardware:
 ### Implementation
 For Software:
 
-# Prerequisites
+Prerequisites
 
 -Node.js (v18 or higher recommended)
 -npm (comes with Node)
